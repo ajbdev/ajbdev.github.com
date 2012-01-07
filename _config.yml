@@ -9,10 +9,10 @@ var:
   tags_path : /tags.html
 
 production_url : http://username.github.com # or your custom domain name
-title : My Blog =)
+title : Code until your brain bleeds
 
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Andy Baird
+  email : andybaird@gmail.com
+  github : ajbdev
+  twitter : ajbaird
